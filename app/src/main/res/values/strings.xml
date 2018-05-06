@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Multiplication Table</string>
+    <string name="ans">%.2f x %d = %.2f \n</string>
+    <string name="ds">%.2f x 0 = 0 \n</string>
+    <string name="of">Of</string>
+    <string name="till">Till</string>
+    <string name="blank" />
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
